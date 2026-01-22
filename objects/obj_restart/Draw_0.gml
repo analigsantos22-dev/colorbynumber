@@ -3,7 +3,7 @@ if (visible) {
 
    
    //  Pick your colors
-    var _btn_color = #F49AC2;   // The button body color
+    var _btn_color = #F49AC3;   // The button body color
     var _text_color = #9E0B0F;   // The text color
     var _border_color = c_black; // The outline color
 	draw_set_font(Font1); //  font  style
