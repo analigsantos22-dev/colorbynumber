@@ -1,0 +1,1 @@
+Obj_game_manager.selected_color_id = my_color_id;

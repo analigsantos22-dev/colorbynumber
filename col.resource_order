@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Font1","order":8,"path":"fonts/Font1/Font1.yy",},
+    {"name":"Obj_game_manager","order":2,"path":"objects/Obj_game_manager/Obj_game_manager.yy",},
+    {"name":"obj_restart","order":6,"path":"objects/obj_restart/obj_restart.yy",},
+    {"name":"object_button","order":4,"path":"objects/object_button/object_button.yy",},
+    {"name":"Spr_button_clicker","order":3,"path":"sprites/Spr_button_clicker/Spr_button_clicker.yy",},
+    {"name":"spr_Strawberry","order":1,"path":"sprites/spr_Strawberry/spr_Strawberry.yy",},
+    {"name":"Sprite3","order":9,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
+}
