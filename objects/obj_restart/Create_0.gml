@@ -1,2 +1,4 @@
 x =  room_width / 2;
-y = 850;
+y = 845;
+
+visible = false;
